@@ -19,8 +19,8 @@
     "config": {
         "eeprom": {
             "wear_leveling":{
-                "backing_size": 8192,
-                "logical_size": 2048
+                "backing_size": 65536,
+                "logical_size": 16384
             }
         },
         "features": {
